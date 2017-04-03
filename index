@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Index</title>
+
+<link  rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+
+<h1> Welcome to me! </h1>
+
+<h2> A badass adventurous traveler </h2>
+
+<p> I am loving life, while traveling the world. Learn more about me <a href="https://www.facebook.com/alexis.budzyn">here</a></a></p>
+
+<img src= "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/17458352_10208800133941307_3913343183958511872_n.jpg?oh=696931c01e697a4e9334b66c3615746c&oe=5996EE3D" />
+
+</body>
+
+</html>

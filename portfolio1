@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Home</title>
+  <link  rel="stylesheet" type="text/css" href="css/portfolio.css">
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+  <script src="https://use.fontawesome.com/38c711c446.js"></script>
+</head>
+
+<body>
+  <section class="intro">
+    <header>
+      <img src="saldkjfhlds" alt="logo" class="top-left-logo"/>
+      <nav class="top-right-header">
+        <a href="sdljfsld">Fake Link</a>
+        <a href="sdkajfhskdjf">Fake Link 2</a>
+        <a href="dsjhfskdjf">Fake Link3</a>
+      </nav>
+    </header>
+  <div>
+      <h1>Alexis Budzyn</h1>
+      <h2>Badass Retreat Manager</h2>
+      <h3>Canggu Bali</h3>
+    </div>
+  </section>
+
+  <section class="aboutme">
+    <h1>About Me</h1>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </section>
+
+  <section class="myskills">
+    <div>
+      <h1>My Skills</h1>
+    </div>
+
+    <div>
+      <h1>Web Development</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    </div>
+
+    <div>
+      <h1>Graphic Design</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    </div>
+
+    <div>
+      <h1>UX Strategy</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    </div>
+
+    <div>
+      <h1>Marketing Strategy</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    </div>
+
+    <div>
+      <h1>Social Media</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    </div>
+
+    <div>
+      <h1>Photography</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+    </div>
+
+  <section>
+    <map?
+  </section>
+
+  <section class="myexperience">
+    <div>
+      <h1>My Experience</h1>
+    </div>
+
+    <div>
+      <h1>Macdonalds</h1>
+      <h2>General Manager</h2>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+
+    <div>
+      <h1>Macdonalds</h1>
+      <h2>General Manager</h2>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+
+    <div>
+      <h1>Macdonalds</h1>
+      <h2>General Manager</h2>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+
+    <div>
+      <h1>Macdonalds</h1>
+      <h2>General Manager</h2>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+  </section>
+  <section class="mymap">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.752515580102!2d115.13679481470855!3d-8.61974209380538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd238567ed4351d%3A0xd4dea0277ed82fa1!2sThe+Palm+House!5e0!3m2!1sen!2sid!4v1491184798825" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </section>
+
+  <section class="contact">
+    <footer>
+      <h1>Get In Touch</h1>
+      <h2>hello@gmail.com</h2>
+      <a href="http://www.facebook.com">
+    </footer>
+  </section>
+
+</html>

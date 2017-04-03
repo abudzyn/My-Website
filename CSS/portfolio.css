@@ -1,0 +1,60 @@
+/*  CSS RESET */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Amatic SC', cursive;
+}
+
+/*  NAV BAR   */
+.top-left-logo {
+border:1px solid white;
+}
+
+.top-right-header,a {
+  text-align: right;
+  padding: 5%;
+  font-size: 20px;
+}
+
+/*   INTRO SECTION    */
+.intro {
+  min-height: 100vh;
+  background-size: cover;
+  background-image: url("https://media.giphy.com/media/l2JIdnF6aJnAqzDgY/giphy.gif");
+}
+.intro h1, .intro h2, .intro h3 {
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+}
+.intro h1{
+  padding-top:150px;
+  font-size: 75px;
+  font-weight: bolder;
+}
+.intro h2, .intro h3{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/*   ABOUT ME   */
+.aboutme {
+  text-align: center;
+  color: black;
+  padding: 12%;
+  background-color: black;
+}
+.aboutme h1,p{
+  background-color: white;
+  padding: 20px 40px 20px 40px;
+}
+
+
+/*   CONTACT   */
+.contact {
+  text-align: center;
+  color: white;
+  padding: 12%;
+  background-color: black;
+}

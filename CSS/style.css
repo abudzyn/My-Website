@@ -1,0 +1,40 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+body {
+  background-color: #6f8b94;
+  text-align: center;
+  padding: 3%;
+  font-family: Lato;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+h2 {
+  color: #e6eba9;
+  font-size: 2rem;
+}
+
+p {
+  padding: 3%;
+}
+
+a {
+  border: 1px solid #706482;
+  border-radius: 3px;
+  padding: 1%;
+  margin: 1%;
+  color: #3a3a3a;
+  text-decoration: none;
+}
+
+img {
+  width: 50%;
+  border-radius: 20%;
+}
